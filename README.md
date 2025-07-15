@@ -10,14 +10,3 @@
   🚀 From basics to advanced Python — every topic covered step by step
 </p>
 
----
-
-## 🔥 Why I Made This Repository?
-
-> I'm learning Python deeply — line by line, logic by logic — from Abdul Bari Sir.  
-> This is my personal practice repo to master Python and become placement-ready.
-
----
-
-
-
