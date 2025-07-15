@@ -26,7 +26,7 @@ I created this repository to:
 
 ---
 
-## 📚 What’s Inside?
+
 
 | 📦 Module | 💡 Topics Covered |
 |----------|--------------------|
