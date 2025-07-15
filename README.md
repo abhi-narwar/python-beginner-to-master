@@ -53,10 +53,4 @@
 
 ---
 
-## 🧭 My Progress
 
-```text
-I'm learning daily, file by file — trying to understand logic deeply and comment every line for clarity.
-
-🛠️ Tools I Use
-<p align="center"> <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python"/> <img src="https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode"/> <img src="https://img.shields.io/badge/Platform-GitHub-black?logo=github"/> </p>
