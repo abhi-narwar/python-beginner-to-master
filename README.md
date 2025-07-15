@@ -4,7 +4,7 @@
 ---
 
 <p align="justify">
-This repository is a complete collection of <strong>Python programs, notes, and practice problems</strong> based on the famous course by <strong>Abdul Bari Sir</strong>.
+This repository is a complete collection of <strong>Python notes</strong> based on the famous course by <strong>Abdul Bari Sir</strong>.
 
 🚀 The journey starts from the <em>very basics</em> like <strong>variables, data types, loops, and functions</strong> — and goes all the way to <strong>advanced concepts</strong> such as:
 
