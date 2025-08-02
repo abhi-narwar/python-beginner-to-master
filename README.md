@@ -1,5 +1,5 @@
 <h1 align="center">🐍 Mastering Python: From Beginner to Advanced</h1>
-<h3 align="center">📘 Based on the Course by Abdul Bari Sir</h3>
+<h3 align="center">📘 Based on the Course by Abdul Bari Sir</h3
 
 ---
 
